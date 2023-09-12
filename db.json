@@ -1,16 +1,29 @@
 {
   "posts": [
-
-  {
+    {
+       
     "id" : "el1",
     "name " : "Ветчина и сыр",
     "disc" : "Ветчина, моцарелла, соус",
     "img" : "/img/catalog/1.jpeg",
-    "price" : 12050,
-  }
+    "price" : 12050
+  
+    }
   ],
   "profile": {
-    "name" : "typicode"
+    "name": "typicode"
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
