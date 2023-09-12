@@ -1,4 +1,10 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+      {
     id: "el1",
     name: "Ветчина и сыр",
     disc: "Ветчина, моцарелла, соус",
@@ -138,3 +144,9 @@
     img: "/img/catalog/20.jpg",
     price: 590,
   }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
